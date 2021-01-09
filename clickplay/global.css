@@ -1,0 +1,83 @@
+
+.flip-horizontally {
+  transform: scaleX(-1);
+}
+.flip-vertically {
+  transform: scaleY(-1);
+}
+
+.right-catjam {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+
+}
+.left-catjam{
+position: absolute;
+top: 20px;
+left: 20px;
+
+}
+
+.center-tital{
+  margin-right: 45%;
+  margin-left: 45%;
+  background-color: black;
+  color:white;
+}
+
+.size-jpg{
+  WIDTH:300px;
+  HEIGHT:200px;
+}
+.button-image1{
+  position:absolute;
+  TOP:305px;
+  LEFT:200px;
+  background-color: black;
+  color:white;
+}
+
+.button-image2{
+  position:absolute;
+  TOP:305px;
+  LEFT:800px;
+  background-color: black;
+  color:white;
+
+}
+
+.button-image3{
+  position:absolute;
+  TOP:305px;
+  LEFT:1400px;
+  background-color: black;
+  color:white;
+
+}
+
+.button-image4{
+  position:absolute;
+  TOP:650px;
+  LEFT:200px;
+  background-color: black;
+  color:white;
+
+}
+
+.button-image5{
+  position:absolute;
+  TOP:650px;
+  LEFT:800px;
+  background-color: black;
+  color:white;
+}
+
+.button-image6{
+  position:absolute;
+  TOP:650px;
+  LEFT:1400px;
+  background-color: black;
+  color:white;
+
+}
